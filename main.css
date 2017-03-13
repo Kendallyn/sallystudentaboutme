@@ -1,5 +1,6 @@
-div {
-	background-color: azure;
-	border: 1px solid aquamarine;
-	padding: 30px;
+h2 {
+    background-color: azure;
+    border: 1px solid aquamarine;
+    padding: 30px;
+    color: blue
 }
